@@ -19,6 +19,6 @@ public class CrabCookingStrategy {
         System.out.println("-----------------");
         kitchen.setCrabCooking(hs);
         kitchen.CookingMethod();
-
+        System.out.println("测试");
     }
 }
